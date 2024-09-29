@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-genovana-landingpage/static/css/main.c99fb284.css",
+    "main.js": "/ws101-genovana-landingpage/static/js/main.2f896f5b.js",
+    "static/js/453.cafb6aee.chunk.js": "/ws101-genovana-landingpage/static/js/453.cafb6aee.chunk.js",
+    "static/media/bg.jpg": "/ws101-genovana-landingpage/static/media/bg.c14bc2921a4d46554f9a.jpg",
+    "index.html": "/ws101-genovana-landingpage/index.html",
+    "main.c99fb284.css.map": "/ws101-genovana-landingpage/static/css/main.c99fb284.css.map",
+    "main.2f896f5b.js.map": "/ws101-genovana-landingpage/static/js/main.2f896f5b.js.map",
+    "453.cafb6aee.chunk.js.map": "/ws101-genovana-landingpage/static/js/453.cafb6aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99fb284.css",
+    "static/js/main.2f896f5b.js"
+  ]
+}
