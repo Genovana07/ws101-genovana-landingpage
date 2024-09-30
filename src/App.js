@@ -7,14 +7,14 @@ import Portfolio from './components/About'; // Corrected import
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/portfolio" element={<Portfolio />} />
         </Routes>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 
